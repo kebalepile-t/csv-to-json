@@ -1,0 +1,11 @@
+{
+	"name": "csv_to_json",
+	"version": "1.0.0",
+	"description": "a file convertor that converts csv document to json",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "Kebalepile T Motshoana",
+	"license": "ISC"
+}
